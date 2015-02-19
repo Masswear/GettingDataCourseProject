@@ -2,7 +2,7 @@
 [Link to Course on Coursera.org](class.coursera.org/getdata-011)
 
 by Masswear, 19.02.2015
-==================================================================
+
 
 #Data
 
